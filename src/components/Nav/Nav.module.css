@@ -1,0 +1,10 @@
+.Nav {
+    border: none;
+    display: flex-inline;
+}
+.Nav a {
+    color: yellow;
+    background: black;
+    margin: 5px 10px 5px 10px;
+    padding: 10px;
+}
