@@ -2,6 +2,8 @@
 
 Mga gabay o "Frequently Asked Questions" tungkol sa lightning network.
 
+[EN](https://getlightning.xyz)
+
 ## papano mag simula sa bitcoin lightning wallet
 
 Ang pinakamadaling paraan is gumawa ng custodial wallet katulad ng [Pouch: The PHP Lightning Wallet]() o [Wallet of Satoshi](https://www.walletofsatoshi.com/)
