@@ -14,11 +14,11 @@ const Nav = () => {
         </div>
         <div className="grid-cols-6 w-full block lg:flex lg:items-center lg:w-auto" style={{float: 'right'}}>
         <div className="text-sm lg:flex-grow mt-10">
-            <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
+            <a href="https://learn.kidlat.xyz" className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
             Tutorials
             </a>
         &nbsp;
-            <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white">
+            <a href="https://meetups.kidlat.xyz" className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white">
             Meetups
             </a>
         </div>
